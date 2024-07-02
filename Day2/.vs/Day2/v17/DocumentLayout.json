@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|c:\\users\\bahuk\\desktop\\cdac\\dotnet\\day2\\day2\\day2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|solutionrelative:day2\\day2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|c:\\users\\bahuk\\desktop\\cdac\\dotnet\\day2\\day2\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|solutionrelative:day2\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|c:\\users\\bahuk\\desktop\\cdac\\dotnet\\day2\\day2\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|solutionrelative:day2\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|c:\\users\\bahuk\\desktop\\cdac\\dotnet\\day2\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|c:\\users\\bahuk\\desktop\\cdac\\dotnet\\day2\\day2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6E7049-DE26-48CC-883E-99DABFB167E7}|Day2\\Day2.csproj|solutionrelative:day2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day2",
+              "DocumentMoniker": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Day2.csproj",
+              "RelativeDocumentMoniker": "Day2\\Day2.csproj",
+              "ToolTip": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Day2.csproj",
+              "RelativeToolTip": "Day2\\Day2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T10:22:42.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Class3.cs",
+              "RelativeDocumentMoniker": "Day2\\Class3.cs",
+              "ToolTip": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Class3.cs*",
+              "RelativeToolTip": "Day2\\Class3.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:18:05.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Class2.cs",
+              "RelativeDocumentMoniker": "Day2\\Class2.cs",
+              "ToolTip": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Class2.cs",
+              "RelativeToolTip": "Day2\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:46:11.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Class1.cs",
+              "RelativeDocumentMoniker": "Day2\\Class1.cs",
+              "ToolTip": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Class1.cs",
+              "RelativeToolTip": "Day2\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:37:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "C:\\Users\\bahuk\\Desktop\\cdac\\DOTNET\\Day2\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:06:19.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

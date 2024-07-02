@@ -1,0 +1,27 @@
+using System;
+using System.Thread;
+
+class ThreadLocking
+{
+	public void Display(Object obj)
+	{
+		string s = obj.ToString();
+		Console.Write("Hello world"+s);
+	}
+
+	static void Main()
+	{
+		ThreadLocking tl = new ThreadLocking();
+
+		ThreadStart t1 = new ThreadStart(t1.Display());
+		ThreadStart t2 = new ThreadStart(t1.Display());
+		ThreadStart t2 = new ThreadStart(t1.Display());
+
+		t1.start("Naresh");
+		t2.start("Mohit");
+		t3.start("Pradeep");
+
+	}
+
+}
+		

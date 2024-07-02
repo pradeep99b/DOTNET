@@ -1,0 +1,14 @@
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\bin\Debug\net8.0\MohitDay1.exe
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\bin\Debug\net8.0\MohitDay1.deps.json
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\bin\Debug\net8.0\MohitDay1.runtimeconfig.json
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\bin\Debug\net8.0\MohitDay1.dll
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\bin\Debug\net8.0\MohitDay1.pdb
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\MohitDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\MohitDay1.AssemblyInfoInputs.cache
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\MohitDay1.AssemblyInfo.cs
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\MohitDay1.csproj.CoreCompileInputs.cache
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\MohitDay1.dll
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\refint\MohitDay1.dll
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\MohitDay1.pdb
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\MohitDay1.genruntimeconfig.cache
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\MohitDay1\obj\Debug\net8.0\ref\MohitDay1.dll

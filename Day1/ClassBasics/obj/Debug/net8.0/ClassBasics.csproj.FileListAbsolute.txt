@@ -1,0 +1,14 @@
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.AssemblyInfoInputs.cache
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.AssemblyInfo.cs
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.csproj.CoreCompileInputs.cache
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.exe
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.deps.json
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.runtimeconfig.json
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.dll
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.pdb
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.dll
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\refint\ClassBasics.dll
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.pdb
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.genruntimeconfig.cache
+C:\Users\bahuk\Desktop\cdac\DOTNET\Day1\ClassBasics\obj\Debug\net8.0\ref\ClassBasics.dll
